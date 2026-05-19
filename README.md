@@ -60,6 +60,8 @@ Download link: https://github.com/hangwin/mcp-chrome/releases
 
 2. **Install mcp-chrome-bridge globally**
 
+`mcp-chrome-bridge` is the npm package for this project's native bridge (published from this repository), not a different product.
+
 npm
 
 ```bash
