@@ -58,6 +58,8 @@ Chrome MCP Server 是一个基于chrome插件的 **模型上下文协议 (MCP) �
 
 2. **全局安装mcp-chrome-bridge**
 
+`mcp-chrome-bridge` 是本仓库发布的本地桥接 npm 包，不是另一个独立项目。
+
 npm
 
 ```bash
